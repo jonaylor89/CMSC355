@@ -1,6 +1,3 @@
 [submodule "assignment-1-starter-jonaylor89"]
 	path = assignment-1-starter-jonaylor89
 	url = git@github.com:vcu-cmsc355-fall2018/assignment-1-starter-jonaylor89.git
-[submodule "project-404-name-not-found"]
-	path = project-404-name-not-found
-	url = git@github.com:vcu-cmsc355-fall2018/project-404-name-not-found.git
